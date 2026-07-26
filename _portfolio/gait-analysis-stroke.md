@@ -38,4 +38,4 @@ S. Maffei, F. Piccatti, V. Tarditi, M.G. Traverso
 
 ## Download
 
-[📄 Download full report](/files/gait-analysis-stroke.pdf)
+[📄 Download full report](/files/Analisi-del-cammino-in-pazienti-post-ictus.pdf)
