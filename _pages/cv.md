@@ -9,56 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Master's Degree in Biomedical Engineering** — Politecnico di Torino, Turin (2023 – 2026)
+Specialization: Biomedical Instrumentation
+Thesis: "Simulation-based design and musculoskeletal modeling of FeatherExo for hip-extension assistance during gait"
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Bachelor's Degree in Biomedical Engineering** — Politecnico di Torino, Turin (2019 – 2023)
+Final Project: "Applicazione di algoritmi di denoising su immagini in fluorescenza per GAN"
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**High School Diploma** — Liceo Scientifico "Maria Curie", Pinerolo (TO) (2014 – 2019)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Experience
+
+**Guest Researcher – Biomechanical Simulation** — IIT Rehab Technologies, Genoa (Nov 2025 – Jul 2026)
+- Built a high-fidelity digital twin of the human-exoskeleton system (OpenSim), integrating hardware kinematics and compliant transmission mechanics
+- Formulated and solved optimal control problems (NLP) to simulate and predict human-machine interaction under real-use conditions
+- Quantified device performance across three biomechanical metrics: mechanical unloading, neuromotor adaptation, and metabolic relief
+
+**Curricular Intern – Biomedical Image Processing** — Politecnico di Torino (Sept 2022 – March 2023)
+- Utilized a MATLAB GUI to apply BM3D and CLAHE denoising algorithms on fluorescence microscopy images (cell clones, cardiospheres), pre-processing datasets for GAN training
+
+---
+
+## Skills
+
+**Programming:** MATLAB, Python
+
+**Software:** OpenSim, Mokka, Meshlab, Solidworks, Blender (basic), Unity 6 (basic), Microsoft Office
+
+---
+
+## Languages
+
+- Italian: Native
+- English: B2 (Cambridge First Certificate)
+
+---
+
+[📄 Download CV (PDF)](/files/cv_valerio_tarditi.pdf)
