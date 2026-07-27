@@ -17,11 +17,17 @@ Specialization: Biomedical Instrumentation
 
 Thesis: "Simulation-based design and musculoskeletal modeling of FeatherExo for hip-extension assistance during gait"
 
+Final grade: 110/110 cum laude
+
 **Bachelor's Degree in Biomedical Engineering** — Politecnico di Torino, Turin (2019 – 2023)
 
 Final Project: "Applicazione di algoritmi di denoising su immagini in fluorescenza per GAN"
 
+Final grade: 105/110
+
 **High School Diploma** — Liceo Scientifico "Maria Curie", Pinerolo (TO) (2014 – 2019)
+
+Finale grade: 100/100 cum laude
 
 ---
 
