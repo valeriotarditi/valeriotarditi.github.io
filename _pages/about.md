@@ -21,6 +21,6 @@ I completed my Bachelor's Degree in Biomedical Engineering at Politecnico di Tor
 
 - Musculoskeletal modelling and simulation
 - Wearable assistive devices and exoskeletons
-- Biomedical Instrumentation
+- Biomedical instrumentation
 - Biomedical image processing
 - Rehabilitation engineering
