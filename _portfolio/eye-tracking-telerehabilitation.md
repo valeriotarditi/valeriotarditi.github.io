@@ -40,7 +40,7 @@ S. Maffei, G. Martucci, V. Tarditi, M.G. Traverso, A. Villani
 
 ## Demo
 
-🎬 [Watch the demo video](#) *(link da aggiornare)*
+🎬 [Watch the demo video](https://youtu.be/oh5nl8qD6tI) 
 
 ## Download
 
