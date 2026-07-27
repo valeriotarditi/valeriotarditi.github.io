@@ -11,7 +11,7 @@ I am a Biomedical Engineering graduate from Politecnico di Torino, specialized i
 
 ## Current Research
 
-I recently completed my Master's thesis as Guest Researcher at the **Istituto Italiano di Tecnologia (IIT) – Rehab Technologies** in Genoa, working on the simulation-based design and biomechanical evaluation of a lower-limb exoskeleton for Parkinson's disease patients. This involved building digital twins in OpenSim and solving optimal control problems to simulate human-machine interaction.
+I recently completed my Master's Degree in Biomedical Engineering with a thesis research developed as Guest Researcher at the **Istituto Italiano di Tecnologia (IIT) – Rehab Technologies** in Genoa, working on the simulation-based design and biomechanical evaluation of a lower-limb exoskeleton for Parkinson's disease patients. This involved building digital twins in OpenSim and solving optimal control problems to simulate human-machine interaction.
 
 ## Background
 
@@ -21,5 +21,6 @@ I completed my Bachelor's Degree in Biomedical Engineering at Politecnico di Tor
 
 - Musculoskeletal modelling and simulation
 - Wearable assistive devices and exoskeletons
+- Biomedical Instrumentation
 - Biomedical image processing
 - Rehabilitation engineering
